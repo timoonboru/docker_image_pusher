@@ -1,3 +1,4 @@
 #epsilonjohn/ros_melodic_and_ubuntu18.04
 #1
-epsilonjohn/ros_melodic_and_ubuntu18.04
+#epsilonjohn/ros_melodic_and_ubuntu18.04
+moyash/novnc-ros-desktop:melodic
